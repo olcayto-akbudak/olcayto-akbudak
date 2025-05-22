@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Merhaba, ben Olcayto!
 
-<!--
-**olcayto-akbudak/olcayto-akbudak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Yönetim Bilişim Sistemleri 3. sınıf öğrencisiyim.  
+🔍 Veri analizi, iş zekâsı, C#/.NET ve SAP teknolojilerine meraklıyım.  
+💡 SQL • Python • Power BI • Tableau • C# temel yetkinliklerimin merkezinde.  
 
-Here are some ideas to get you started:
+🚀 Şu anda
+- Power BI ile satış verileri üzerinde dashboard’lar geliştiriyorum  
+- C# ile mini konsol/WinForms projeleri yazıyorum  
+- SAP ABAP temellerini öğreniyorum  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 2025 hedeflerim
+- Orta seviye .NET Core Web API projesi tamamlamak  
+- Kaggle’da en az 2 veri bilimi yarışmasına katılmak  
+- SAP Learning Hub’tan ABAP sertifikası almak  
+
+🛠️ Kullandığım araçlar
+`Python` `Pandas` `SQL` `C#` `.NET` `Power BI` `Tableau` `Git`  
+
+📈 GitHub İstatistiklerim
+![Olcayto's GitHub stats](https://github-readme-stats.vercel.app/api?username=olcayto-akbudak&show_icons=true&hide_border=true)
