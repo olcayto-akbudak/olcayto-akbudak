@@ -6,13 +6,12 @@
 
 🚀 Şu anda
 - Power BI ile satış verileri üzerinde dashboard’lar geliştiriyorum  
-- C# ile mini konsol/WinForms projeleri yazıyorum  
-- SAP ABAP temellerini öğreniyorum  
+- C# ile mini konsol/WinForms projeleri yazıyorum   
 
 🎯 2025 hedeflerim
 - Orta seviye .NET Core Web API projesi tamamlamak  
 - Kaggle’da en az 2 veri bilimi yarışmasına katılmak  
-- SAP Learning Hub’tan ABAP sertifikası almak  
+
 
 🛠️ Kullandığım araçlar
 `Python` `Pandas` `SQL` `C#` `.NET` `Power BI` `Tableau` `Git`  
