@@ -1,6 +1,6 @@
 👋 Merhaba, ben Olcayto!
 
-🎓 Yönetim Bilişim Sistemleri 3. sınıf öğrencisiyim.  
+🎓 Yönetim Bilişim Sistemleri 4. sınıf öğrencisiyim.  
 🔍 Veri analizi, iş zekâsı, C#/.NET teknolojilerine meraklıyım.  
 💡 SQL • Python • Power BI • Tableau • C# temel yetkinliklerimin merkezinde.  
 
