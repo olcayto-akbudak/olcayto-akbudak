@@ -1,20 +1,25 @@
-👋 Merhaba, ben Olcayto!
+# Olcayto Akbudak  
+Analist & Yazılım Geliştirici | .NET | SQL | Veri Sistemleri
 
-🎓 Yönetim Bilişim Sistemleri 4. sınıf öğrencisiyim.  
-🔍 Veri analizi, iş zekâsı, C#/.NET teknolojilerine meraklıyım.  
-💡 SQL • Python • Power BI • Tableau • C# temel yetkinliklerimin merkezinde.  
+Veri odaklı yazılım geliştirme, veritabanı yönetimi ve modern .NET teknolojileri üzerine çalışıyorum. Amacım; performanslı, ölçeklenebilir ve kurumsal standartlara uygun veri çözümleri geliştirmek.
 
-🚀 Şu anda
-- Power BI ile satış verileri üzerinde dashboard’lar geliştiriyorum  
-- C# ile mini konsol/WinForms projeleri yazıyorum   
+## Teknolojiler
+- **Diller:** C#, SQL, Python  
+- **Veritabanları:** MSSQL, PostgreSQL, RDBMS/DBMS  
+- **Teknolojiler:** .NET, REST API, Web Servisleri, EF Core, Redis, Git  
+- **Alanlar:** Veri modelleme, ETL, performans optimizasyonu, süreç analizi
 
-🎯 2025 hedeflerim
-- Orta seviye .NET Core Web API projesi tamamlamak  
-- Kaggle’da en az 2 veri bilimi yarışmasına katılmak  
+## Çalışma Alanlarım
+- .NET Core ile servis geliştirme  
+- Veritabanı tasarımı ve optimizasyon  
+- Veri süreci otomasyonları (SQL & Python)  
+- Kurumsal entegrasyon yapıları
 
+## Hedefler
+- Kapsamlı bir .NET Core Web API projesi geliştirmek  
+- Veri mühendisliği (ETL & pipeline) yetkinliklerini ileri seviyeye taşımak  
+- Performans odaklı veri projeleri üretmek ve yayınlamak  
 
-🛠️ Kullandığım araçlar
-`Python` `Pandas` `SQL` `C#` `.NET` `Power BI` `Tableau` `Git`  
-
-📈 GitHub İstatistiklerim
-![Olcayto's GitHub stats](https://github-readme-stats.vercel.app/api?username=olcayto-akbudak&show_icons=true&hide_border=true)
+## GitHub
+![Stats](https://github-readme-stats.vercel.app/api?username=olcayto-akbudak&show_icons=true)  
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olcayto-akbudak&layout=compact)
