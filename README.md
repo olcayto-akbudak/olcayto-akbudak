@@ -1,6 +1,6 @@
 # Olcayto Akbudak
 
-### 🧠 AI Supported Data Analyst | 💻 Social Media Management Analyst 
+### 🧠 AI Supported Data Analyst
 
 Veri odaklı karar verme süreçlerini yapay zeka ve yazılım geliştirme yeteneklerimle birleştiriyorum. Amacım; performanslı, ölçeklenebilir ve kurumsal standartlara uygun, ileri analitik ve veri entegrasyonu çözümleri geliştirmektir.
 
