@@ -51,5 +51,4 @@ Aşağıdaki alanlarda uzmanlığımı ve tecrübemi kullanıyorum:
 
 ## 🔗 İletişim
 
-* **LinkedIn:** [linkedin.com/in/olcayto-akbudak](https://www.linkedin.com/in/olcayto-akbudak) 
 * **Instagram:** [instagram.com/olcayto.ioa](https://www.instagram.com/olcayto.ioa)
