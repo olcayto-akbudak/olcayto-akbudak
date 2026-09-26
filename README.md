@@ -4,7 +4,9 @@
 
 İş süreçleri ile teknik sistemler arasındaki boşluğu kapatıyorum. ERP ve e-Dönüşüm alanındaki deneyimimi **gereksinim analizi, API entegrasyonları, SQL ve veri analitiği** ile birleştirerek ekiplerin daha net kararlar almasına yardımcı oluyorum.
 
-Şu anda **Akınsoft Ar-Ge** bünyesinde İş Geliştirme Analisti olarak çalışıyorum. Hatay Mustafa Kemal Üniversitesi **Yönetim Bilişim Sistemleri** mezunuyum.
+Şu anda **Akınsoft Ar-Ge** bünyesinde İş Geliştirme Analisti olarak çalışıyorum.
+
+**[Portföyüm, analiz çalışmalarım ve e-Dönüşüm notlarım →](https://olcayto-akbudak.github.io/)**
 
 > Bir iş ihtiyacını anlamak, sistem davranışına çevirmek, veriyle doğrulamak ve uygulanabilir bir çözüm önermek: çalışma yaklaşımım bu dört adım üzerine kurulu.
 
@@ -21,6 +23,8 @@
 
 | Proje | Analitik odak |
 | --- | --- |
+| [e-Fatura doğrulama kapsamı](https://github.com/olcayto-akbudak/efatura-dogrulama-kapsami) | [XML doğrulama vaka notu](https://olcayto-akbudak.github.io/notlar/efatura-xml-dogrulama.html) · 57 hata senaryosu |
+| [Satın alma–ödeme süreç madenciliği](https://github.com/olcayto-akbudak/p2p-surec-madenciligi) | [P2P vaka notu](https://olcayto-akbudak.github.io/notlar/p2p-surec-madenciligi.html) · bekleme ve kontrol istisnaları |
 | [Bulut Test Otomasyonu](https://github.com/olcayto-akbudak/bulut-test-otomasyonu) | Test süreçleri ve otomasyon |
 | [E-Ticaret Abonelik Churn Analizi](https://github.com/olcayto-akbudak/ecommerce-subscription-churn-sql) | SQL ile müşteri kaybı analizi |
 | [Amazon SQL Reporting](https://github.com/olcayto-akbudak/amazon-sql-reporting) | Satış verisi ve SQL raporlama |
