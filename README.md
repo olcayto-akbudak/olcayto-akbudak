@@ -1,54 +1,43 @@
-# Olcayto Akbudak
+# İbrahim Olcayto Akbudak
 
-### 🧠 AI Supported Data Analyst
+### İş Geliştirme Analisti · ERP & e-Dönüşüm · Entegrasyon · Veri Analizi
 
-Veri odaklı karar verme süreçlerini yapay zeka ve yazılım geliştirme yeteneklerimle birleştiriyorum. Amacım; performanslı, ölçeklenebilir ve kurumsal standartlara uygun, ileri analitik ve veri entegrasyonu çözümleri geliştirmektir.
+İş süreçleri ile teknik sistemler arasındaki boşluğu kapatıyorum. ERP ve e-Dönüşüm alanındaki deneyimimi **gereksinim analizi, API entegrasyonları, SQL ve veri analitiği** ile birleştirerek ekiplerin daha net kararlar almasına yardımcı oluyorum.
 
----
+Şu anda **Akınsoft Ar-Ge** bünyesinde İş Geliştirme Analisti olarak çalışıyorum. Hatay Mustafa Kemal Üniversitesi **Yönetim Bilişim Sistemleri** mezunuyum.
 
-## 🛠️ Temel Yetkinlikler ve Teknolojiler
+> Bir iş ihtiyacını anlamak, sistem davranışına çevirmek, veriyle doğrulamak ve uygulanabilir bir çözüm önermek: çalışma yaklaşımım bu dört adım üzerine kurulu.
 
-Aşağıdaki alanlarda uzmanlığımı ve tecrübemi kullanıyorum:
+## Odak alanlarım
 
-### 🐍 Programlama ve Veri Analizi
-* **Python:** Veri manipülasyonu (Pandas, NumPy), görselleştirme (Matplotlib, Seaborn) ve ileri düzey analiz.
-* **C# / .NET:** Kurumsal seviye API geliştirme (ASP.NET Core Web API) ve veri işleme uygulamaları.
-* **SQL (Structured Query Language):** Karmaşık sorgular, prosedürler ve veritabanı optimizasyonu.
+| Alan | Çalıştığım konular |
+| --- | --- |
+| **İş ve sistem analizi** | Gereksinimlerin netleştirilmesi, süreç analizi, test senaryoları, hata tespiti ve paydaş iletişimi |
+| **ERP ve e-Dönüşüm** | ERP modülleri, e-Fatura / e-İrsaliye süreçleri, UBL/XML, GİB ve özel entegratör akışları |
+| **Entegrasyon** | REST/SOAP API, Postman, Swagger/OpenAPI, kimlik doğrulama, asenkron işlem ve hata senaryoları |
+| **Veri analizi** | SQL, Python, Pandas, Power BI, raporlama ve karar desteği |
 
-### 💾 Veritabanları ve Veri Ambarı
-* **İlişkisel:** MSSQL Server, PostgreSQL (RDBMS/DBMS).
-* **NoSQL / Önbellek:** Redis, MongoDB.
-* **Veri Ambarları:** Bulut tabanlı çözümler ve ETL/ELT süreçleri için optimizasyon.
+## Seçilmiş çalışmalarım
 
-### 🤖 Makine Öğrenimi ve Yapay Zeka (AI)
-* **ML Kütüphaneleri:** Scikit-learn, TensorFlow, Keras (Temel Model Geliştirme ve Değerlendirme).
-* **Veri Modelleme:** Tahminsel modelleme (Regresyon, Sınıflandırma), kümeleme ve veri setleri üzerinde derinlemesine analiz.
-* **Mühendislik:** Özellik Mühendisliği (Feature Engineering) ve Model Optimizasyonu.
+| Proje | Analitik odak |
+| --- | --- |
+| [Bulut Test Otomasyonu](https://github.com/olcayto-akbudak/bulut-test-otomasyonu) | Test süreçleri ve otomasyon |
+| [E-Ticaret Abonelik Churn Analizi](https://github.com/olcayto-akbudak/ecommerce-subscription-churn-sql) | SQL ile müşteri kaybı analizi |
+| [Amazon SQL Reporting](https://github.com/olcayto-akbudak/amazon-sql-reporting) | Satış verisi ve SQL raporlama |
+| [Retail Sales SQL Analysis](https://github.com/olcayto-akbudak/retail-sales-sql-analysis) | Perakende satış analizi |
+| [Data Cleaning Pipeline](https://github.com/olcayto-akbudak/data-cleaning-pipeline-pandas) | Pandas ile veri temizleme |
+| [Feature Engineering Fundamentals](https://github.com/olcayto-akbudak/feature-engineering-fundamentals) | Özellik mühendisliği çalışmaları |
+| [AI-Assisted Fraud Detection System](https://github.com/olcayto-akbudak/AI-Assisted-Fraud-Detection-System) | Dolandırıcılık tespiti ve analitik |
+| [Akıllı Finansal Analiz Tahmin Sistemi](https://github.com/olcayto-akbudak/Akilli-Finansal-Analiz-Tahmin-Sistemi) | Finansal veri analizi |
 
-### ⚙️ Veri Mühendisliği ve Altyapı
-* **ETL/Pipeline:** Veri süreçlerinin otomasyonu, yönetimi ve performansı.
-* **Versiyon Kontrol:** Git, GitHub.
-* **Web Servisleri:** RESTful API geliştirme ve entegrasyonu.
+**[Tüm herkese açık projelerimi görüntüle →](https://github.com/olcayto-akbudak?tab=repositories)**
 
----
+## Nasıl çalışırım?
 
-## 🚀 Çalışma Alanları (Örnek Projeler)
+`İş ihtiyacı → Süreç ve veri analizi → Teknik gereksinim → Test ve doğrulama → İyileştirme`
 
-* **.NET Core ile Mikroservis Geliştirme:** Veri toplama ve işleme için ölçeklenebilir Web API'leri tasarlama.
-* **Veri Bütünlüğü ve Otomasyon:** SQL ve Python kullanarak veri temizleme, dönüşüm ve entegrasyon süreçlerinin (Data Pipelines) oluşturulması.
-* **Kurumsal Veritabanı Optimizasyonu:** Sorgu performansı iyileştirme, veritabanı şeması tasarımı ve indeksleme.
-* **İleri Analitik Projeler:** İş ihtiyaçlarına yönelik (Churn, Satış Tahmini vb.) Makine Öğrenimi modellerinin geliştirilmesi ve entegrasyonu.
+Kod ve araçlar benim için amaç değil; doğru soruyu sormak, doğru veriyi kullanmak ve ekiplerin uygulayabileceği bir çözüm ortaya koymak için kullandığım araçlar.
 
----
+## İletişim
 
-## 🎯 Hedefler
-
-* Kapsamlı bir Veri Mühendisliği (ETL & Pipeline) altyapısı projesi geliştirmek.
-* Makine Öğrenimi modelini üretim ortamına (Production) taşıyacak MLOps süreçlerine hakim olmak.
-* Büyük Veri teknolojilerini (Spark, Hadoop) kullanarak ölçeklenebilir analitik çözümler sunmak.
-
----
-
-## 🔗 İletişim
-
-* **Instagram:** [instagram.com/olcayto.ioa](https://www.instagram.com/olcayto.ioa)
+[E-posta gönder](mailto:akbudakolcayto@gmail.com)
