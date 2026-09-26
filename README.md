@@ -40,4 +40,4 @@ Kod ve araçlar benim için amaç değil; doğru soruyu sormak, doğru veriyi ku
 
 ## İletişim
 
-[E-posta gönder](akbudakolcaytoibrahim@gmail.com)
+akbudakolcaytoibrahim@gmail.com
